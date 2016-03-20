@@ -1,0 +1,44 @@
+{
+	"cloths" : {
+			"shirts" : {
+				"1" : {
+						"id" : 1,
+						"style" : "apple cut",
+						"size" : "m",
+						"color" : "blue"
+				},
+				"2" : {
+						"id" : 2,
+					"style" : "apple cut",
+					"size" : "m",
+					"color" : "blue"
+				},
+				"3" : {
+						"id" : 3,
+					"style" : "apple cut",
+					"size" : "m",
+					"color" : "blue"
+				}
+			},
+			"pants" : {
+				"1" : {
+						"id" : 1,
+						"style" : "slim fit",
+						"size" : "m",
+						"color" : "blue"
+				},
+				"2" : {
+						"id" : 2,
+						"style" : "regular fit",
+						"size" : "m",
+						"color" : "blue"
+				},
+				"3" : {
+						"id" : 3,
+						"style" : "slim fit",
+						"size" : "m",
+						"color" : "blue"
+				}
+			}
+	}
+}
