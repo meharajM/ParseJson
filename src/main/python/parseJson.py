@@ -1,5 +1,5 @@
 import json;
-file = open("fashion.json")
+file = open("src/main/resources/cloths.json")
 data = file.read()
 #data = "{'rajkumar':1}";
 matches_for_blue = ["black"]
